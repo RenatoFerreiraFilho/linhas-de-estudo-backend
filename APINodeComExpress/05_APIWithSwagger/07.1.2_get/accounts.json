@@ -1,0 +1,25 @@
+{
+  "nextId": 5,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Renato Ferreira",
+      "balance": 200
+    },
+    {
+      "id": 2,
+      "name": "Renato Teixeira",
+      "balance": 400
+    },
+    {
+      "id": 3,
+      "name": "Diego Teixeira",
+      "balance": 400
+    },
+    {
+      "id": 4,
+      "name": "Diego Cerqueira",
+      "balance": 400
+    }
+  ]
+}

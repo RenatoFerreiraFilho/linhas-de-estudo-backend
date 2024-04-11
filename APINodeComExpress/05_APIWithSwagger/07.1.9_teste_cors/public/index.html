@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+
+<script>
+    var http = new XMLHttpRequest();
+    http.onreadystatechange = function (){
+        if (this.readyState == 4 && this.status == 200){
+            console.log(this)
+        }
+    }
+    console.log(`teste`)
+    http.open("GET","http://localhost:3000/account")
+    http.send()
+</script>    
+</html>

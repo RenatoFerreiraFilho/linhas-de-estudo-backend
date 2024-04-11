@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1699438936535" clover="3.2.0">
+  <project timestamp="1699438936535" name="All files">
+    <metrics statements="37" coveredstatements="33" conditionals="6" coveredconditionals="5" methods="12" coveredmethods="9" elements="55" coveredelements="47" complexity="0" loc="37" ncloc="37" packages="2" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="24" coveredstatements="24" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <file name="app.js" path="/Users/renatoferreira/Library/Mobile Documents/com~apple~CloudDocs/00 - Renato Ferreira/Full Stack Developer/Bootcamp NodeJS/Módulo 4 - Tópicos Especiais/Codigos Aula/01.onGoing/03-consulta-credito/src/app.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="calcula-valor.js" path="/Users/renatoferreira/Library/Mobile Documents/com~apple~CloudDocs/00 - Renato Ferreira/Full Stack Developer/Bootcamp NodeJS/Módulo 4 - Tópicos Especiais/Codigos Aula/01.onGoing/03-consulta-credito/src/calcula-valor.js">
+        <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="8" count="26" type="stmt"/>
+        <line num="9" count="26" type="stmt"/>
+        <line num="10" count="26" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="14" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test">
+      <metrics statements="13" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="3"/>
+      <file name="extensoes.js" path="/Users/renatoferreira/Library/Mobile Documents/com~apple~CloudDocs/00 - Renato Ferreira/Full Stack Developer/Bootcamp NodeJS/Módulo 4 - Tópicos Especiais/Codigos Aula/01.onGoing/03-consulta-credito/test/extensoes.js">
+        <metrics statements="13" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

@@ -1,0 +1,55 @@
+{
+  "nextId": 16,
+  "accounts": [
+    {
+      "id": 2,
+      "name": "Helena",
+      "balance": 0
+    },
+    {
+      "id": 4,
+      "name": "RenatoTeste",
+      "balance": 2334.32
+    },
+    {
+      "id": 6,
+      "name": "Ree",
+      "balance": 5
+    },
+    {
+      "id": 7,
+      "name": "Henrique",
+      "balance": 788
+    },
+    {
+      "id": 9,
+      "name": "Renato",
+      "balance": 786
+    },
+    {
+      "id": 10,
+      "name": "Jaque",
+      "balance": 786
+    },
+    {
+      "id": 11,
+      "name": "Isa",
+      "balance": 786
+    },
+    {
+      "id": 12,
+      "name": "Renato Ferreira",
+      "balance": 5000
+    },
+    {
+      "id": 13,
+      "name": "Rafael",
+      "balance": 0
+    },
+    {
+      "id": 15,
+      "name": "Renato",
+      "balance": 0
+    }
+  ]
+}

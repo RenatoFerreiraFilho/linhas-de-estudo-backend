@@ -1,0 +1,61 @@
+2023-09-27T10:13:42.667Z [my-bank-api] info: API Inicializada
+2023-09-27T10:20:21.068Z [my-bank-api] info: API inicializada. Novo arquivo gerado
+2023-09-27T10:20:35.303Z [my-bank-api] info: API inicializada. Novo arquivo gerado
+2023-09-27T10:23:51.461Z [my-bank-api] info: API inicializada. Novo arquivo gerado
+2023-09-27T10:26:00.270Z [my-bank-api] error: ENOENT: no such file or directory, open 'accounts.json'
+2023-09-27T10:26:01.414Z [my-bank-api] error: ENOENT: no such file or directory, open 'accounts.json'
+2023-09-27T10:26:45.962Z [my-bank-api] info: API inicializada. Novo arquivo gerado
+2023-09-27T10:26:58.661Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-09-27T10:27:57.526Z [my-bank-api] info: API inicializada. Novo arquivo gerado
+2023-09-27T10:29:20.246Z [my-bank-api] info: API Inicializada
+2023-09-27T10:29:34.442Z [my-bank-api] info: API Inicializada
+2023-09-27T10:32:00.263Z [my-bank-api] info: API Inicializada
+2023-09-27T10:32:23.545Z [my-bank-api] info: GET /account
+2023-09-27T10:32:57.173Z [my-bank-api] info: POST /account {"id":1,"name":"Renato","balance":234}
+2023-09-27T10:33:09.369Z [my-bank-api] info: POST /account {"id":2,"name":"joao","balance":2345}
+2023-09-28T01:06:43.771Z [my-bank-api] info: API Inicializada
+2023-09-28T01:06:53.742Z [my-bank-api] info: GET /account
+2023-09-28T01:07:07.617Z [my-bank-api] info: POST /account {"id":3,"name":"Reinaldo","balance":2345}
+2023-09-28T01:10:36.200Z [my-bank-api] info: API Inicializada
+2023-09-28T01:12:02.651Z [my-bank-api] info: API Inicializada
+2023-09-28T01:14:32.531Z [my-bank-api] info: API Inicializada
+2023-09-28T01:15:45.644Z [my-bank-api] error: PUT /account - Registro não encontrado
+2023-09-28T01:17:32.037Z [my-bank-api] info: API Inicializada
+2023-09-28T01:18:20.229Z [my-bank-api] info: PUT /account {"id":2,"name":"Reinaldo","balance":2345}
+2023-09-28T01:18:47.785Z [my-bank-api] info: PUT /account {"id":3,"name":"ROQUE","balance":2345}
+2023-09-28T01:18:59.155Z [my-bank-api] info: PUT /account {"id":3,"name":"ROQUE","I":2345}
+2023-09-28T01:19:42.959Z [my-bank-api] info: API Inicializada
+2023-09-28T01:19:48.624Z [my-bank-api] info: API Inicializada
+2023-09-28T01:19:52.584Z [my-bank-api] error: PUT /account - Name e balance são obrigatórios
+2023-09-28T01:20:18.048Z [my-bank-api] info: GET /account
+2023-09-29T00:21:58.848Z [my-bank-api] info: API Inicializada
+2023-09-29T00:22:29.616Z [my-bank-api] info: API Inicializada
+2023-09-29T00:24:35.234Z [my-bank-api] info: GET /account
+2023-09-29T00:30:59.891Z [my-bank-api] info: GET /account
+2023-09-29T07:40:23.532Z [my-bank-api] info: API Inicializada
+2023-09-29T07:41:15.628Z [my-bank-api] info: GET /account
+2023-09-29T07:45:50.183Z [my-bank-api] info: GET /account
+2023-09-29T07:47:11.630Z [my-bank-api] info: API Inicializada
+2023-09-29T07:47:28.199Z [my-bank-api] info: API Inicializada
+2023-09-29T07:48:14.005Z [my-bank-api] info: API Inicializada
+2023-09-29T07:49:26.521Z [my-bank-api] info: GET /account
+2023-09-29T07:49:49.477Z [my-bank-api] info: API Inicializada
+2023-09-29T07:50:49.365Z [my-bank-api] info: API Inicializada
+2023-09-29T07:50:55.160Z [my-bank-api] info: GET /account
+2023-09-29T07:54:23.113Z [my-bank-api] info: API Inicializada
+2023-09-29T07:54:28.410Z [my-bank-api] info: GET /account
+2023-09-29T07:55:21.646Z [my-bank-api] info: GET /account
+2023-09-29T07:57:06.432Z [my-bank-api] info: API Inicializada
+2023-09-29T07:57:23.560Z [my-bank-api] info: GET /account
+2023-09-29T07:57:46.825Z [my-bank-api] info: API Inicializada
+2023-09-29T07:58:05.330Z [my-bank-api] info: GET /account
+2023-09-29T07:58:11.928Z [my-bank-api] info: API Inicializada
+2023-09-29T07:58:16.766Z [my-bank-api] info: API Inicializada
+2023-09-29T07:58:21.590Z [my-bank-api] info: GET /account
+2023-09-29T07:58:42.922Z [my-bank-api] info: GET /account
+2023-09-29T07:59:23.906Z [my-bank-api] info: API Inicializada
+2023-09-29T07:59:47.132Z [my-bank-api] info: GET /account
+2023-09-29T08:00:38.377Z [my-bank-api] info: GET /account/:id 
+2023-09-29T08:01:01.893Z [my-bank-api] info: API Inicializada
+2023-09-29T08:01:07.417Z [my-bank-api] info: GET /account/:id 
+2023-09-29T08:01:24.138Z [my-bank-api] info: GET /account
